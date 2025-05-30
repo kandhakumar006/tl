@@ -30,16 +30,16 @@ Satellite uplink systems provide a direct communication link between ground stat
 ![image](https://github.com/user-attachments/assets/5ab87451-427b-46fe-b9e9-0796e51fa81a)
 
 
+![image](https://github.com/user-attachments/assets/6d7db0a7-3790-4da1-b096-1817bb4cf194)
 
-## image
-![image](https://github.com/user-attachments/assets/43c72c0f-d098-4ad3-8201-fd74ca1fe513)
 
 
 ## Real-Time Application:
 During the Sikkim earthquake, portable satellite terminals were deployed to establish communication links with central command centers, facilitating coordination of relief efforts.
 
 ## image
-![image](https://github.com/user-attachments/assets/f0dddf01-21d7-4d3c-96aa-9fc3a23fb91f)
+![image](https://github.com/user-attachments/assets/dce041ee-c44d-417d-9a5b-fcb6627cf8a7)
+
 
 
 ## 3.2. Low VSWR Antennas
@@ -50,10 +50,11 @@ A low Voltage Standing Wave Ratio (VSWR) indicates efficient power transmission 
 
 
 ## Formula:
+
+![image](https://github.com/user-attachments/assets/25cbe7fb-9027-4193-82f3-28064edcd817)
+
+
 ![image](https://github.com/user-attachments/assets/14c53678-e171-42ed-9219-98a99c1bffaf)
-
-
-![image](https://github.com/user-attachments/assets/f77ab1c4-ddc8-4c2c-80c6-359fa4ecd75d)
 
 
 
